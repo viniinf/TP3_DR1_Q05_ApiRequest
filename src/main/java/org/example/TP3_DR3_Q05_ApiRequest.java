@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class TP3_DR1_ApiRequest {
+public class TP3_DR3_Q05_ApiRequest {
     public static void main(String[] args) {
         try {
             // URL da API pública informada pela questão 5
